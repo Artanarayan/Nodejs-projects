@@ -1,0 +1,26 @@
+{
+  "name": "mynodejs_application",
+  "version": "1.0.0",
+  "description": "first mode js application",
+  "keywords": [
+    ".shikuyaa.com"
+  ],
+  "homepage": "https://github.com/Artanarayan/pythonDSA#readme",
+  "bugs": {
+    "url": "https://github.com/Artanarayan/pythonDSA/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artanarayan/pythonDSA.git"
+  },
+  "license": "ISC",
+  "author": "Artanarayan nandi",
+  "type": "y",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
